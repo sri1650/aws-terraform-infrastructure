@@ -28,3 +28,36 @@ This project demonstrates how to provision basic AWS infrastructure using Infras
 ## Architecture
 
 [View AWS Infrastructure Diagram](./architecture.md)
+# AWS Terraform Infrastructure
+
+Infrastructure as Code project using Terraform to provision AWS networking and a web server.
+
+## Overview
+
+This project provisions a basic AWS environment including:
+
+- VPC
+- Public subnet
+- Internet gateway
+- Route table
+- Security group
+- EC2 instance
+- Nginx web server
+
+## Tech Stack
+
+- Terraform
+- AWS
+- EC2
+- VPC
+- Linux
+
+## Project Files
+
+```text
+aws-terraform-infrastructure
+├── main.tf
+├── ec2.tf
+├── outputs.tf
+└── README.md
+```
