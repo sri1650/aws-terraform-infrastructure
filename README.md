@@ -25,3 +25,6 @@ This project demonstrates how to provision basic AWS infrastructure using Infras
 - Add load balancer
 - Add auto scaling
 - Add remote state storage
+## Architecture
+
+[View AWS Infrastructure Diagram](./architecture.md)
