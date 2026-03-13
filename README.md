@@ -61,3 +61,10 @@ aws-terraform-infrastructure
 ├── outputs.tf
 └── README.md
 ```
+## Live Test
+
+After applying Terraform, open the EC2 public IP in a browser:
+
+```text
+http://35.178.82.191
+```
